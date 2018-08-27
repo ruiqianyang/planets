@@ -2,4 +2,10 @@ cold and dry, but everything is my favorite color
 The two moons may be a problem for wolfman
 But the mummy will appreciate the lack of humidity
 change
+<<<<<<< HEAD
 Dennis added to this note.
+=======
+
+
+This is a planet which can be suitable for human life.
+>>>>>>> 4cce5fcdc5d10dd0f15cf9c76d3477f1783e6ad5
